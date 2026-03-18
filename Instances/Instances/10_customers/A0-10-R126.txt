@@ -1,0 +1,32 @@
+VEHICLE_ID    TYPE       CAPACITY_FRESH  CAPACITY_FROZEN      MAX_FRIGOBOXES  
+1            Fresh               200              0                2  
+2            Fresh               150              0                1  
+3            Frozen                0            200                1  
+4            Frozen                0            250                1  
+J1           Mixed               100            100                0  
+J2           Mixed               150             50                0  
+J3           Mixed                50            150                0  
+J4           Mixed               130             70                0  
+K1           Mixed               125            125                0  
+K2           Mixed               188             62                0  
+K3           Mixed                62            188                0  
+K4           Mixed               162             88                0     
+
+FRIGOBOX DATA  
+TOTAL_AVAILABLE_FRIGOBOXES: 10  
+CAPACITY_PER_FRIGOBOX: 40  
+WEIGHT_PER_FRIGOBOX: 40
+
+CUST NO.	XCOORD.	YCOORD.	READY TIME	DUE DATE	SERVICE TIME	FROZEN	FRESH
+
+0	70	70	0	634	0	0	0
+81	85	75	0	609	10	6	14
+82	10	86	411	441	10	9	14
+83	51	92	448	478	10	9	13
+84	46	112	286	316	10	6	15
+85	12	48	62	92	10	15	15
+86	137	7	156	186	10	17	15
+87	79	80	13	43	10	8	4
+88	69	116	344	374	10	15	16
+89	28	62	196	226	10	14	14
+90	50	106	0	583	10	9	15
