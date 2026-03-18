@@ -1,0 +1,46 @@
+VEHICLE_ID    TYPE       CAPACITY_FRESH  CAPACITY_FROZEN      MAX_FRIGOBOXES  
+1             Fresh               200              0                2  
+2             Fresh               200              0                2  
+3             Fresh               150              0                1  
+4             Frozen                0            250                1  
+5             Frozen                0            150                1  
+6             Frozen                0            200                2  
+M1            Mixed               100            100                0  
+M2            Mixed               150             50                0  
+M3            Mixed                50            150                0  
+N1            Mixed               125            125                0  
+N2            Mixed               188             62                0  
+N3            Mixed                62            188                0  
+N4            Mixed               162             88                0  
+N5            Mixed                88            162                0  
+O1            Mixed                75             75                0  
+O2            Mixed               112             38                0  
+O3            Mixed                38            112                0  
+O4            Mixed                98             52                0  
+O5            Mixed                52             98                0  
+
+FRIGOBOX DATA  
+TOTAL_AVAILABLE_FRIGOBOXES: 15  
+CAPACITY_PER_FRIGOBOX: 40  
+WEIGHT_PER_FRIGOBOX: 40
+
+CUST NO.	XCOORD.	YCOORD.	READY TIME	DUE DATE	SERVICE TIME	FROZEN	FRESH
+
+0	70	70	0	634	0	0	0
+135	58	11	0	564	10	14	11
+146	107	102	0	576	10	9	11
+152	64	115	0	579	10	14	14
+153	32	6	105	115	10	18	15
+154	86	80	0	606	10	19	13
+155	81	57	17	27	10	18	5
+172	120	52	384	394	10	11	19
+173	33	117	0	565	10	18	6
+175	60	54	0	606	10	16	11
+176	125	68	202	212	10	11	6
+177	13	129	361	371	10	10	18
+179	15	9	420	430	10	12	16
+195	105	2	0	548	10	17	9
+196	66	91	21	31	10	17	17
+197	93	61	531	541	10	15	8
+199	69	6	93	103	10	15	19
+200	95	135	411	421	10	13	19

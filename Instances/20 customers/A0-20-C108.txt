@@ -1,0 +1,50 @@
+VEHICLE_ID    TYPE       CAPACITY_FRESH  CAPACITY_FROZEN      MAX_FRIGOBOXES  
+1             Fresh               150              0                1  
+2             Fresh               200              0                2  
+3             Fresh               150              0                1  
+4             Frozen                0            250                1  
+5             Frozen                0            200                2  
+6             Frozen                0            150                1  
+N1            Mixed               125            125                0  
+N2            Mixed               188             62                0  
+N3            Mixed                62            188                0  
+N4            Mixed               162             88                0  
+N5            Mixed                88            162                0  
+O1            Mixed                75             75                0  
+O2            Mixed               112             38                0  
+O3            Mixed                38            112                0  
+O4            Mixed                98             52                0  
+O5            Mixed                52             98                0  
+P1            Mixed               100            100                0  
+P2            Mixed               150             50                0  
+P3            Mixed                50            150                0  
+P4            Mixed               130             70                0  
+
+FRIGOBOX DATA  
+TOTAL_AVAILABLE_FRIGOBOXES: 15  
+CAPACITY_PER_FRIGOBOX: 40  
+WEIGHT_PER_FRIGOBOX: 40
+
+CUST NO.	XCOORD.	YCOORD.	READY TIME	DUE DATE	SERVICE TIME	FROZEN	FRESH
+
+0	70	70	0	1351	0	0	0
+129	88	35	217	426	90	11	4
+130	94	104	667	900	90	8	10
+131	74	96	26	257	90	8	7
+132	0	117	434	666	90	15	6
+134	119	114	65	308	90	16	6
+143	16	39	199	473	90	6	6
+144	32	77	38	322	90	20	9
+145	122	131	478	791	90	4	5
+147	96	26	93	371	90	3	14
+148	127	29	70	290	90	14	16
+150	42	136	227	465	90	3	2
+151	36	132	412	669	90	19	18
+152	103	106	204	439	90	16	2
+153	107	105	355	655	90	19	16
+154	96	74	306	482	90	1	19
+155	63	57	14	272	90	8	6
+156	122	113	236	445	90	12	13
+157	14	131	628	869	90	17	11
+158	30	31	889	1088	90	3	2
+159	40	132	68	351	90	10	12
