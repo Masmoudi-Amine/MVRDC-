@@ -1,0 +1,18 @@
+Vehicle F3 (Mixed): 266.45 units
+Route: 0 -> 129 -> 191 -> 136 -> 142 -> 0
+Fresh Demand: 36, Frozen Demand: 67
+Frigoboxes used: 0.00
+
+Vehicle G3 (Mixed): 260.99 units
+Route: 0 -> 133 -> 137 -> 176 -> 126 -> 139 -> 134 -> 0
+Fresh Demand: 44, Frozen Demand: 105
+Frigoboxes used: 0.00
+
+
+=== Summary ===
+Total Frigoboxes Used: 0
+Fresh Vehicles Used: 0
+Frozen Vehicles Used: 0
+Mixed Vehicles Used: 2
+
+Best Cost: 2528.82

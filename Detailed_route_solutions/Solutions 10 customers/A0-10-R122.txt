@@ -1,0 +1,22 @@
+Vehicle 1 (Fresh): 127.66 units
+Route: 0 -> 109 -> 107 -> 0
+Fresh Demand: 14, Frozen Demand: 20
+Frigoboxes used: 1.00
+
+Vehicle 3 (Frozen): 104.56 units
+Route: 0 -> 103 -> 101 -> 105 -> 108 -> 0
+Fresh Demand: 25, Frozen Demand: 45
+Frigoboxes used: 1.00
+
+Vehicle I4 (Mixed): 235.46 units
+Route: 0 -> 106 -> 104 -> 102 -> 110 -> 0
+Fresh Demand: 25, Frozen Demand: 34
+Frigoboxes used: 0.00
+
+=== Summary ===
+Total Frigoboxes Used: 2
+Fresh Vehicles Used: 1
+Frozen Vehicles Used: 1
+Mixed Vehicles Used: 1
+
+Best Cost: 3469.44
