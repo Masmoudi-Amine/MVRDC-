@@ -1,0 +1,23 @@
+Vehicle 2 (Fresh)
+Route: 0 -> 140 -> 134 -> 137 -> 144 -> 143 -> 139 -> 0
+Fresh: 68/250 | Frozen: 73/0
+Frigoboxes used: 2
+
+Vehicle 1 (Fresh)
+Route: 0 -> 132 -> 146 -> 135 -> 138 -> 141 -> 0
+Fresh: 47/150 | Frozen: 18/0
+Frigoboxes used: 1
+
+Vehicle 4 (Frozen)
+Route: 0 -> 142 -> 136 -> 145 -> 133 -> 0
+Fresh: 46/0 | Frozen: 45/200
+Frigoboxes used: 2
+
+
+=== Summary ===
+Total Frigoboxes Used: 5
+Fresh Vehicles Used: 2
+Frozen Vehicles Used: 1
+Mixed Vehicles Used: 0
+
+Best Cost: 3601.42
