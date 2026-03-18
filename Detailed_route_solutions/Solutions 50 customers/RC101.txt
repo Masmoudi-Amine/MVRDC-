@@ -1,0 +1,59 @@
+=== Solution Summary ===
+Customers served: 50/50 
+Vehicle I1 (Mixed)
+Route: 0 -> 5 -> 45 -> 2 -> 7 -> 8 -> 46 -> 3 -> 1 -> 4 -> 0
+Distance: 118.121
+Fresh: 130/150 | Frozen: 45/50
+Frigoboxes used: 0
+
+Vehicle F1 (Mixed)
+Route: 0 -> 39 -> 36 -> 38 -> 41 -> 40 -> 43 -> 37 -> 35 -> 0
+Distance: 128.809
+Fresh: 137/150 | Frozen: 47/50
+Frigoboxes used: 0
+
+Vehicle D1 (Mixed)
+Route: 0 -> 33 -> 30 -> 28 -> 34 -> 50 -> 0
+Distance: 118.253
+Fresh: 70/150 | Frozen: 25/50
+Frigoboxes used: 0
+
+Vehicle J1 (Mixed)
+Route: 0 -> 31 -> 29 -> 27 -> 26 -> 32 -> 0
+Distance: 121.368
+Fresh: 69/150 | Frozen: 24/50
+Frigoboxes used: 0
+
+Vehicle C1 (Mixed)
+Route: 0 -> 23 -> 21 -> 19 -> 18 -> 48 -> 25 -> 0
+Distance: 112.092
+Fresh: 87/150 | Frozen: 43/50
+Frigoboxes used: 0
+
+Vehicle B1 (Mixed)
+Route: 0 -> 14 -> 47 -> 11 -> 22 -> 49 -> 20 -> 24 -> 0
+Distance: 132.436
+Fresh: 91/150 | Frozen: 41/50
+Frigoboxes used: 0
+
+Vehicle G1 (Mixed)
+Route: 0 -> 42 -> 44 -> 6 -> 0
+Distance: 106.499
+Fresh: 31/150 | Frozen: 11/50
+Frigoboxes used: 0
+
+Vehicle Q1 (Mixed)
+Route: 0 -> 12 -> 15 -> 16 -> 9 -> 10 -> 13 -> 17 -> 0
+Distance: 116.942
+Fresh: 96/150 | Frozen: 44/50
+Frigoboxes used: 0
+
+
+=== Summary ===
+Total Frigoboxes Used: 0
+Fresh Vehicles Used: 0
+Frozen Vehicles Used: 0
+Mixed Vehicles Used: 8
+
+Best Cost: 954.518
+
