@@ -1,0 +1,64 @@
+=== Solution Summary ===  
+Customers served: 200/200
+Vehicle 31 (Frozen)  
+Route: 0 -> 64 -> 198 -> 164 -> 99 -> 29 -> 2 -> 138 -> 143 -> 126 -> 128 -> 48 -> 145 -> 25 -> 90 -> 193 -> 71 -> 24 -> 160 -> 58 -> 52 -> 105 -> 0
+Distance: 394.959
+Fresh: 191/0 | Frozen: 235/650
+Frigoboxes used: 5
+
+Vehicle 30 (Frozen)
+Route: 0 -> 171 -> 63 -> 173 -> 94 -> 162 -> 26 -> 18 -> 113 -> 131 -> 89 -> 179 -> 97 -> 31 -> 181 -> 172 -> 87 -> 4 -> 106 -> 159 -> 83 -> 14 -> 0
+Distance: 482.77
+Fresh: 199/0 | Frozen: 200/650
+Frigoboxes used: 5
+
+Vehicle 18 (Frozen)
+Route: 0 -> 136 -> 28 -> 142 -> 107 -> 41 -> 38 -> 166 -> 102 -> 46 -> 108 -> 61 -> 72 -> 20 -> 194 -> 190 -> 80 -> 158 -> 101 -> 91 -> 197 -> 44 -> 11 -> 23 -> 0
+Distance: 379.01
+Fresh: 285/0 | Frozen: 247/700
+Frigoboxes used: 8
+
+Vehicle 16 (Fresh)
+Route: 0 -> 67 -> 132 -> 10 -> 153 -> 59 -> 86 -> 93 -> 118 -> 77 -> 33 -> 13 -> 12 -> 73 -> 32 -> 123 -> 121 -> 17 -> 7 -> 170 -> 165 -> 66 -> 0
+Distance: 256.314
+Fresh: 233/650 | Frozen: 249/0
+Frigoboxes used: 7
+
+Vehicle 17 (Fresh)
+Route: 0 -> 167 -> 40 -> 39 -> 119 -> 70 -> 60 -> 30 -> 133 -> 16 -> 50 -> 96 -> 139 -> 103 -> 141 -> 74 -> 92 -> 49 -> 82 -> 163 -> 75 -> 168 -> 154 -> 21 -> 51 -> 0
+Distance: 379.013
+Fresh: 276/650 | Frozen: 263/0
+Frigoboxes used: 7
+
+Vehicle 3 (Fresh)
+Route: 0 -> 196 -> 42 -> 110 -> 184 -> 182 -> 45 -> 187 -> 57 -> 169 -> 192 -> 84 -> 27 -> 53 -> 56 -> 185 -> 180 -> 37 -> 85 -> 1 -> 111 -> 176 -> 0
+Distance: 412.784
+Fresh: 232/650 | Frozen: 210/0
+Frigoboxes used: 6
+
+Vehicle J1 (Mixed)
+Route: 0 -> 188 -> 144 -> 6 -> 148 -> 183 -> 65 -> 199 -> 189 -> 47 -> 175 -> 155 -> 43 -> 69 -> 122 -> 117 -> 124 -> 55 -> 88 -> 135 -> 149 -> 152 -> 157 -> 34 -> 114 -> 68 -> 0
+Distance: 634.773
+Fresh: 260/325 | Frozen: 243/325
+Frigoboxes used: 0
+
+Vehicle 27 (Frozen)
+Route: 0 -> 178 -> 200 -> 35 -> 116 -> 15 -> 3 -> 177 -> 134 -> 22 -> 191 -> 150 -> 151 -> 9 -> 19 -> 146 -> 186 -> 161 -> 54 -> 147 -> 195 -> 156 -> 79 -> 0
+Distance: 350.087
+Fresh: 176/0 | Frozen: 227/650
+Frigoboxes used: 5
+
+Vehicle 12 (Fresh)
+Route: 0 -> 104 -> 137 -> 174 -> 115 -> 140 -> 98 -> 76 -> 8 -> 78 -> 62 -> 127 -> 5 -> 100 -> 81 -> 130 -> 112 -> 120 -> 125 -> 109 -> 95 -> 129 -> 36 -> 0
+Distance: 531.807
+Fresh: 251/650 | Frozen: 240/0
+Frigoboxes used: 6
+
+
+=== Summary ===
+Total Frigoboxes Used: 49
+Fresh Vehicles Used: 4
+Frozen Vehicles Used: 4
+Mixed Vehicles Used: 1
+
+Best Cost: 12821.9
