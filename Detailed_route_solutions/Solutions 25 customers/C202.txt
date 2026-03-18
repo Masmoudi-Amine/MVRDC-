@@ -1,0 +1,23 @@
+=== Solution Summary ===
+Customers served: 25/25
+Vehicle J1 (Mixed)
+Route: 0 -> 20 -> 22 -> 24 -> 6 -> 23 -> 18 -> 19 -> 16 -> 14 -> 12 -> 15 -> 17 -> 13 -> 25 -> 9 -> 11 -> 10 -> 8 -> 21 -> 0
+Distance: 144.825
+Fresh: 280/525 | Frozen: 99/175
+Frigoboxes used: 0
+
+Vehicle P1 (Mixed)
+Route: 0 -> 5 -> 2 -> 1 -> 7 -> 3 -> 4 -> 0
+Distance: 70.7174
+Fresh: 70/525 | Frozen: 25/175
+Frigoboxes used: 0
+
+ 
+
+=== Summary ===
+Total Frigoboxes Used: 0
+Fresh Vehicles Used: 0
+Frozen Vehicles Used: 0
+Mixed Vehicles Used: 2
+
+Best Cost: 215.543
